@@ -1,3 +1,6 @@
-archivo de pruebas con github usando la rama main HAUSDHASJASJ
-cambios desde la rama santi
-ASIDHASIHDIHAS
+
+archivo de pruebas con github usando la rama main
+HJJJKJKJ
+cambios desde la rama santi CAMBIANDO LA LINEA
+conflicto resuelto
+
